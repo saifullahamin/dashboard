@@ -1,3 +1,3 @@
 # dashboard
 
-## A dashboard built using ReactJS as a project in my internship
+## A dashboard built using ReactJS & Fushion Charts as a project in my internship.
